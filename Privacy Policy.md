@@ -1,5 +1,5 @@
 Privacy Policy
-Coding Protocols built the DigiBoard app as an Open Source app. This SERVICE is provided by Coding Protocols at no cost and is intended for use as is.
+Coding Protocols built the DigiBoard app as an Open Source app.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
